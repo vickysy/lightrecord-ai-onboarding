@@ -5,6 +5,8 @@
 # 只读系统信息，只往「~/Library/Application Support/LightRecord/Speech/」里放模型文件。
 # 不改系统设置，不要管理员密码，不上传任何文件。
 #
+# © 2026 木妈AIdea · CC BY-NC-SA 4.0（可以免费使用和修改，禁止商用）· https://github.com/vickysy/lightrecord-ai-onboarding
+#
 # 用法（在「终端」或 AI 工具里运行）：
 #   bash lightrecord.sh check             检查系统版本、芯片、轻镜安装位置、磁盘空间、字幕模型
 #   bash lightrecord.sh model             只看字幕模型是否就绪（会核对大小和 SHA-256）

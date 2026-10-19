@@ -4,7 +4,9 @@
 
 一个 AI Skill（Claude Code、Codex 等通用）。装好 Mac 截图录屏软件「轻镜录屏 LightRecord」以后，把它交给你的 AI，AI 会像坐在你旁边一样带你：检查电脑、第一次打开、打开权限、准备字幕要用的语音模型、截第一张图拖进聊天框、录第一段带字幕的讲解视频。
 
-**免费开源，按现状提供。作者不提供售后、安装协助或一对一答疑。** 遇到问题，把屏幕上的提示交给你的 AI，按 SKILL.md 里的「出错时怎么办」排查。
+**免费公开，禁止商用，按现状提供。作者不提供售后、安装协助或一对一答疑。** 遇到问题，把屏幕上的提示交给你的 AI，按 SKILL.md 里的「出错时怎么办」排查。
+
+觉得哪里不顺手，就让你的 AI 在这个基础上改，改成适合你自己的样子。
 
 轻镜录屏官网：https://lightrecord.nativeailab.cn/
 
@@ -61,7 +63,11 @@ git clone https://github.com/vickysy/lightrecord-ai-onboarding.git ~/.codex/skil
 
 ## 许可
 
-MIT，见 [LICENSE](LICENSE)。
+© 2026 木妈AIdea。采用 [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh-hans)（知识共享 署名-非商业性使用-相同方式共享 4.0 国际）许可，完整条款见 [LICENSE](LICENSE)。
+
+- 可以：免费使用，自己修改，把改过的版本分享给别人。
+- 要求：注明来自木妈AIdea，并附上本仓库链接；分享改过的版本时，也用同样的许可。
+- 不可以：用于商业目的，比如拿去售卖，或者放进收费的课程、产品、服务里。
 
 ## 作者
 
